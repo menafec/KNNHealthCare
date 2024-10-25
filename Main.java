@@ -9,7 +9,7 @@ public class Main {
         List<Punto> puntosDeEntrenamiento = new ArrayList<>();
 
         // Leer el archivo CSV
-        String csvFile = "health care diabetes.csv"; // Asegúrate de que la ruta sea correcta
+        String csvFile = "health care diabetes.csv"; 
         String line;
         String csvSplitBy = ",";
 
